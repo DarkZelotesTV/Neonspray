@@ -1,0 +1,8 @@
+{
+  "name": "Neon Spray: Paint with Light [MP]",
+  "description": "Replace the vanilla spraycan with a powerful neon lighting tool. Choose custom colors via an HSV palette, paint on surfaces, and place permanent point lights to create glowing signs or atmosphere in your world.",
+  "type": "tool",
+  "version": "1.0",
+  "author": "DarkZTV [ZIMPLY]",
+  "tags": ["tool", "graphics", "fun"]
+}
